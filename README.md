@@ -7,7 +7,7 @@
 
 ## Main References: (recommended, not required)
 
-- **John L. Hennessy and David A. Patterson,* "Computer Architecture: A Quantitative Approach fith edition." (2012), ISBN ISBN: 978-0-12-383872-8
+- **John L. Hennessy and David A. Patterson** "Computer Architecture: A Quantitative Approach fith edition." (2012), ISBN ISBN: 978-0-12-383872-8
 
 ### Suppliments
 - **David Brooks** "Computer Architecture Fall 2019" http://www.eecs.harvard.edu/cs146-246/
