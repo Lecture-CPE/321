@@ -7,7 +7,8 @@
 
 ## Main References: (recommended, not required)
 
-- **John L. Hennessy and David A. Patterson** "Computer Architecture: A Quantitative Approach fith edition." (2012), ISBN ISBN: 978-0-12-383872-8
+- Textbook: "Computer Architecture: A Quantitative Approach," Third Edition,
+**John L. Hennessy and David A. Patterson**, ISBN 1-55860-596-7A
 
 ### Suppliments
 - **David Brooks** "Computer Architecture Fall 2019" http://www.eecs.harvard.edu/cs146-246/
@@ -15,7 +16,6 @@
 ## Score
 
 ## Attendance/Homework/Quiz/Programming score
-
 
 ### Previous record
 
@@ -29,7 +29,3 @@
 | 16 |   | ***Final exam***   |            |* Close book    |
 
 # Upgrade policy
-
-## The upgrade condition
-* Students have name in volunteers list **AND** 
-* Student are 1st rank for the particular grade.
