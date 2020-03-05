@@ -12,13 +12,16 @@
 
 ### Suppliments
 - **David Brooks** "Computer Architecture Fall 2019" http://www.eecs.harvard.edu/cs146-246/
+- **BRISCV** [https://ascslab.org/research/briscv/simulator/simulator.html](https://ascslab.org/research/briscv/simulator/simulator.html)
+
+## รูปแบบการศึกษา
+พบกัน 2 ครั้ง/ต่อสัปดาห์ ครั้งละ 1.5ชั่วโมง มีปฏิบัติการไม่น้อยกว่า 5 หน่วยปฏิบัติการ
 
 ## Score
 
 ## Attendance/Homework/Quiz/Programming score
 
 ### Previous record
-
 
 ## Resources 
 
