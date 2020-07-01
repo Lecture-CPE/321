@@ -7,16 +7,16 @@
 
 ## Main References: (recommended, not required)
 
-- Textbook: "Computer Architecture: A Quantitative Approach," Third Edition,
-**John L. Hennessy and David A. Patterson**, ISBN 1-55860-596-7A
+- Textbook: - **Shimon Schocken and Noam Nisan** "[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Principles-ebook/dp/B004HHORGA/ref=sr_1_1_title_0_main?s=books&ie=UTF8&qid=1329838149&sr=1-1)" (2005)
+- https://www.nand2tetris.org
+
 
 ### Suppliments
-- **David Brooks** "Computer Architecture Fall 2019" http://www.eecs.harvard.edu/cs146-246/
-- **BRISCV** [https://ascslab.org/research/briscv/simulator/simulator.html](https://ascslab.org/research/briscv/simulator/simulator.html)
+- 
 
 ## Lecture
 
-2 lecture/week
+1 lecture/week
 
 ## Score
 
