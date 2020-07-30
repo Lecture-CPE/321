@@ -29,6 +29,7 @@
 | 3 (W2-2) | Thu. 16-July-2020 <br> 9am-10:30   | Multi-bit buses , Project w1  | * [1.5 Multi-bit buses](https://github.com/Lecture-CPE/321/raw/master/w1/w1.5-MultiBit%20buses.pdf)<br>* [1.6 Week1 Project](https://github.com/Lecture-CPE/321/raw/master/w2/w1.7-Project%201%20Overview.pdf)           |   |
 | 4(w3-1) |Mon. 20-July-2020 <br> 4.30pm-6pm   | * Binary <br> * Negative mumber <br> * ALU    | * [Binary number](https://github.com/Lecture-CPE/321/raw/master/w3/w2.1-Binary%20Number.pdf) <br> * [Negative Number](https://github.com/Lecture-CPE/321/raw/master/w3/w2.3-Negative%20Number.pdf) <br> * [ALU](https://github.com/Lecture-CPE/321/raw/master/w3/w2.4-ALU.pdf) <br> **เสริม** <br> * [Chipset API](https://github.com/radavis/nand2tetris/blob/master/hack-chipset-api.md)           | |
 | 5(w3-2) | Thu. 23-July-2020 <br> 9-10.30am |Implement ALU   |  * [Project 2](https://github.com/Lecture-CPE/321/raw/master/w3/w2.5-Project2%20Overview.pdf)<br>* [CH2](https://files.npu.world/321-comorg/ch2.pdf)  |  [elab](https://elab.npu.world)           |
+| 6(w4) | Thu. 30-July-2020 <br> 9-12am |Sequential Circuit and Memory   |  * [Sequential Circuit](https://github.com/Lecture-CPE/321/raw/master/w4/w4.pdf)<br>* [CH3](https://github.com/Lecture-CPE/321/raw/master/w4/ch3.pdf)  | |
 | 8 |   | ***Midterm exam***   |            |* Close book    |
 | 16 |   | ***No final exam***   |            |* Close book    |
 
