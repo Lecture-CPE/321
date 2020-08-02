@@ -32,6 +32,8 @@
 | 5(w3-2) | Thu. 23-July-2020 <br> 9-10.30am |Implement ALU   |  * [Project 2](https://github.com/Lecture-CPE/321/raw/master/w3/w2.5-Project2%20Overview.pdf)<br>* [CH2](https://files.npu.world/321-comorg/ch2.pdf)  |  [elab](https://elab.npu.world)           |
 | 6(w4) | Thu. 30-July-2020 <br> 9-12am |Sequential Circuit and Memory   |  * [Sequential Circuit](https://github.com/Lecture-CPE/321/raw/master/w4/w4.pdf)<br>* [CH3](https://github.com/Lecture-CPE/321/raw/master/w4/ch3.pdf)  | |
 | 7(w5-1) |Mon. 3-Aug-2020 <br> 4.30pm-6pm | Random Access Memory | * [Project #3 Memory](https://github.com/Lecture-CPE/321/raw/master/w5-1/w3-Project3%20Overview.pdf) ||
+| 8(w5-2) |Thu. 6-Aug-2020 <br> 9am-10.30pm | Program Counnter | * [Project #3 PC](https://github.com/Lecture-CPE/321/raw/master/w5-1/PC.pdf) ||
+
 | 8 |   | ***Midterm exam***   |            |* Close book    |
 | 16 |   | ***No final exam***   |            |* Close book    |
 
