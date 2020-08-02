@@ -13,7 +13,8 @@
 - [Reference design](https://nand2tetris-hdl.github.io)
 ## Lecture
 
-1 lecture/week
+* Monday (4.30pm-6pm)
+* Thuesday (9am-10.30am) 
 
 ## Score
 
