@@ -10,6 +10,7 @@
 - Textbook: - **Shimon Schocken and Noam Nisan** "[The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)" (2005)
 - https://www.nand2tetris.org
 - [Forum](http://tecs-questions-and-answers-forum.32033.n3.nabble.com)
+- [Reference design](https://nand2tetris-hdl.github.io)
 ## Lecture
 
 1 lecture/week
