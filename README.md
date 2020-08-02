@@ -14,7 +14,7 @@
 ## Lecture
 
 * Monday (4.30pm-6pm)
-* Thuesday (9am-10.30am) 
+* Thursday (9am-10.30am) 
 
 ## Score
 
