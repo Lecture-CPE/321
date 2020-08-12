@@ -35,6 +35,8 @@
 | 7(w5-1) |Mon. 3-Aug-2020 <br> 4.30pm-6pm | Random Access Memory | * [Project #3a Memory](https://github.com/Lecture-CPE/321/raw/master/w5-1/w3-Project3%20Overview.pdf) ||
 | 8(w5-2) |Thu. 6-Aug-2020 <br> 9-10.30am | Program Counter | * [Project #3b PC](https://github.com/Lecture-CPE/321/raw/master/w5-1/w5-1%20Counter.pdf) ||
 | 9(w6-1) |Mon. 10-Aug-2020 <br> 4.30-6pm | Overview machine language | * [Overview Machine Language](https://github.com/Lecture-CPE/321/raw/master/w6-1/w4.1-Overview.pdf)<br> * [Machine Language elements](https://github.com/Lecture-CPE/321/raw/master/w6-1/w4.2-Elements.pdf) ||
+| 10(w6-2) |Thu. 6-Aug-2020 <br> 9-10.30am | **งด** |  ||
+| 10(w6-2) |Sun. 15-Aug-2020 <br> 10.30-12.00am | Assembly Language |  ||
 | 8 |   | ***Midterm exam***   |            |* Close book    |
 | 16 |   | ***No final exam***   |            |* Close book    |
 
