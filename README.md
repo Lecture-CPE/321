@@ -37,6 +37,7 @@
 | 9(w6-1) |Mon. 10-Aug-2020 <br> 4.30-6pm | Overview machine language | * [Overview Machine Language](https://github.com/Lecture-CPE/321/raw/master/w6-1/w4.1-Overview.pdf) ||
 | 10(w6-2) |Thu. 6-Aug-2020 <br> 9-10.30am | **งด** |  ||
 | 10(w6-2) |Sun. 15-Aug-2020 <br> 10.30-12.00am | **ชดเชย** <br> **Online** | * [Machine Language elements](https://github.com/Lecture-CPE/321/raw/master/w6-1/w4.2-Elements.pdf) ||
+| 11(w7-1) |Mon. 17-Aug-2020 <br> 5-6.30pm| **Online** Hack Computer and <br> Hack Language | * [Hack Computer](https://github.com/Lecture-CPE/321/raw/master/w7-1/w4.3-HackComputer.pdf) <br> * [Hack Language](https://github.com/Lecture-CPE/321/raw/master/w7-1/w4.4-Hack%20Language%20Specification.pdf)
 | 8 |   | ***Midterm exam***   |            |* Close book    |
 | 16 |   | ***No final exam***   |            |* Close book    |
 
