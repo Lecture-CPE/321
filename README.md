@@ -40,6 +40,7 @@
 | 11(w7-1) |Mon. 17-Aug-2020 <br> 5-6.30pm| **Online**<br> * Hack Computer | * [Hack Computer](https://github.com/Lecture-CPE/321/raw/master/w7-1/w4.3-HackComputer.pdf)  | |
 | 12(w7-2) |Thu. 20-Aug-2020 <br> 9-10.30am| * Hack Language <br> * Input and Output  | * [Hack Language](https://github.com/Lecture-CPE/321/raw/master/w7-2/w4.4-Hack%20Language%20Specification.pdf) <br> * [Input and Output](https://github.com/Lecture-CPE/321/raw/master/w7-2/w4.5-IO.pdf) <br> * [Screen simulation](https://github.com/Lecture-CPE/321/raw/master/w7-2/screen.xlsx)| * [VIDEO IO](https://files.npu.world/321-comorg/nand2tetris/w4.5-IO.mp4) |
 | 13(w8) |Thu. 27-Aug-2020 <br> 9.13-10.13am   | ***Midterm exam***   | พีชคณิตบูลีน และ การออกแบบวงจรดิจิทัล           |* Takehome (ส่งในคาบเรียนวันจันทร์ 4.30pm) <br> - [Midterm-exam](https://github.com/Lecture-CPE/321/raw/master/midterm/midterm-exam-takehome.pdf)    |
+| 14(w8-1) |Mon. 31-Aug-2020 <br> 4.30-6pm| * Hack Assembly 1-2  | * [Hack Assembly 1](https://github.com/Lecture-CPE/321/raw/master/w8-1/w4.6-Assembly-Prog1.pdf)<br>* [Hack Assembly 2](https://github.com/Lecture-CPE/321/raw/master/w8-1/w4.6-Assembly-Prog2.pdf)  | |
 | 16 |   | ***No final exam***   |            |* Close book    |
 
 # Upgrade policy
