@@ -44,6 +44,7 @@
 | 15(w8-2) |Thu. 3-Sep-2020 <br> 9-10.30am| * Hack Assembly 2  | * [Hack Assembly 2](https://github.com/Lecture-CPE/321/raw/master/w9-2/w4.6-Assembly-Prog2.pdf)  | |
 | 16(w9-1) |Mon. 7-Sep-2020| No class (Holliday) |  | |
 | 17(w9-2) |Thu. 10-Sep-2020 <br> 9-10.30am| * Hack Assembly 3  | * [Hack Assembly 3](https://github.com/Lecture-CPE/321/raw/master/w9-2/w4.6-Assembly-Prog3.pdf)  | |
+| 14(w10-1) |Mon. 14-Sep-2020 <br> 4.30-6pm| * Multiplication | * [Hack assemble multiplication](https://github.com/Lecture-CPE/321/raw/master/w10-1/w4.10-Hack-Multiplication.pdf) | |
 | 16 |   | ***No final exam***   |            |* Close book    |
 
 # Upgrade policy
