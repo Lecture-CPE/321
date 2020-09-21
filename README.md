@@ -46,7 +46,7 @@
 | 17(w9-2) |Thu. 10-Sep-2020 <br> 9-10.30am| * Hack Assembly 3  | * [Hack Assembly 3](https://github.com/Lecture-CPE/321/raw/master/w9-2/w4.6-Assembly-Prog3.pdf)  | |
 | 18(w10-1) |Mon. 14-Sep-2020 <br> 4.30-6pm| * Multiplication | * [Hack assemble multiplication](https://github.com/Lecture-CPE/321/raw/master/w10-1/w4.10-Hack-Multiplication.pdf) |* [Mult.asm](https://github.com/Lecture-CPE/321/raw/master/w10-1/Mult.asm) |
 | 19(w10-2) |Thu. 17-Sep-2020 <br> 9-10.30am| * Display | * [Display Toggle](https://github.com/Lecture-CPE/321/raw/master/w10-2/w4.10-Hack-Fill.pdf) |- [Fill-1000.asm](https://github.com/Lecture-CPE/321/raw/master/w10-2/Fill-1000.asm) <br> - [Fill.asm](https://github.com/Lecture-CPE/321/raw/master/w10-2/Fill.asm)  |
-| 20(w11-1) |Thu. 21-Sep-2020 <br> 4.30-6pm| * Computer Architecture <br> * Fetch and Execute cycle | - [Computer Architecture](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.1-VonNeuman.pdf) <br> - [Fetch-Execute](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.2-Fetch-Execute.pdf) ||
+| 20(w11-1) |Thu. 21-Sep-2020 <br> 4.30-6pm| * Computer Architecture <br> * Fetch and Execute cycle | - [Computer Architecture](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.1-VonNeuman.pdf) <br> - [Fetch-Execute](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.2-Fetch-Execute.pdf) |**Nand2tetris books** <br> -[CH5-Computer Architecture](https://inworks.ucdenver.edu/jkb/iwks2300/docs/chapter-05-jkb.pdf)|
 | - |   | ***No final exam***   |            |   |
 
 # Upgrade policy
