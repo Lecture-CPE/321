@@ -36,7 +36,7 @@
 | 8(w5-2) |Thu. 6-Aug-2020 <br> 9-10.30am | Program Counter | * [Project #3b PC](https://github.com/Lecture-CPE/321/raw/master/w5-1/w5-1%20Counter.pdf) ||
 | 9(w6-1) |Mon. 10-Aug-2020 <br> 4.30-6pm | Overview machine language | * [Overview Machine Language](https://github.com/Lecture-CPE/321/raw/master/w6-1/w4.1-Overview.pdf) ||
 | 10(w6-2) |Thu. 6-Aug-2020 <br> 9-10.30am | **งด** |  ||
-| 10(w6-2) |Sun. 15-Aug-2020 <br> 10.30-12.00am | **ชดเชย** <br> **Online** | * [Machine Language elements](https://github.com/Lecture-CPE/321/raw/master/w6-1/w4.2-Elements.pdf) ||
+| 10(w6-2) |Sun. 15-Aug-2020 <br> 10.30-12.00am | **ชดเชย** <br> **Online** | * [Machine Language elements](https://github.com/Lecture-CPE/321/raw/master/w6-2/w4.2-Elements.pdf) ||
 | 11(w7-1) |Mon. 17-Aug-2020 <br> 5-6.30pm| **Online**<br> * Hack Computer | * [Hack Computer](https://github.com/Lecture-CPE/321/raw/master/w7-1/w4.3-HackComputer.pdf)  | |
 | 12(w7-2) |Thu. 20-Aug-2020 <br> 9-10.30am| * Hack Language <br> * Input and Output  | * [Hack Language](https://github.com/Lecture-CPE/321/raw/master/w7-2/w4.4-Hack%20Language%20Specification.pdf) <br> * [Input and Output](https://github.com/Lecture-CPE/321/raw/master/w7-2/w4.5-IO.pdf) <br> * [Screen simulation](https://github.com/Lecture-CPE/321/raw/master/w7-2/screen.xlsx)| * [VIDEO IO](https://files.npu.world/321-comorg/nand2tetris/w4.5-IO.mp4) |
 | 13(w8) |Thu. 27-Aug-2020 <br> 9.13-10.13am   | ***Midterm exam***   | พีชคณิตบูลีน และ การออกแบบวงจรดิจิทัล           |* Takehome (ส่งในคาบเรียนวันจันทร์ 4.30pm) <br> - [Midterm-exam](https://github.com/Lecture-CPE/321/raw/master/midterm/midterm-exam-takehome.pdf)    |
