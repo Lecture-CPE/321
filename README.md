@@ -48,6 +48,7 @@
 | 19(w10-2) |Thu. 17-Sep-2020 <br> 9-10.30am| * Display | * [Display Toggle](https://github.com/Lecture-CPE/321/raw/master/w10-2/w4.10-Hack-Fill.pdf) |- [Fill-1000.asm](https://github.com/Lecture-CPE/321/raw/master/w10-2/Fill-1000.asm) <br> - [Fill.asm](https://github.com/Lecture-CPE/321/raw/master/w10-2/Fill.asm)  |
 | 20(w11-1) |Mon. 21-Sep-2020 <br> 4.30-6pm| * Computer Architecture <br> * Fetch and Execute cycle | - [Computer Architecture](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.1-VonNeuman.pdf) <br> - [Fetch-Execute](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.2-Fetch-Execute.pdf) |**Nand2tetris books** <br> -[CH5-Computer Architecture](https://inworks.ucdenver.edu/jkb/iwks2300/docs/chapter-05-jkb.pdf)|
 | 21(w11-2) |Thu.24-Sep-2020 <br> 9-10.30am| Central Processing Unit  | - [CPU](https://github.com/Lecture-CPE/321/raw/master/w11-2/w5.3-CPU.pdf)  |**Nand2tetris books** <br> -[CH5-Computer Architecture](https://inworks.ucdenver.edu/jkb/iwks2300/docs/chapter-05-jkb.pdf)|
+| 22(w12-1) |Mon.28-Sep-2020 <br> 4.30-6pm| Hack Computer (Postpone)  เลื่อนไป พฤหัสบดี |  | |
 | - |   | ***No final exam***   |            |   |
 
 # Upgrade policy
