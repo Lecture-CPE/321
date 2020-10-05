@@ -47,9 +47,11 @@
 | 18(w10-1) |Mon. 14-Sep-2020 <br> 4.30-6pm| * Multiplication | * [Hack assemble multiplication](https://github.com/Lecture-CPE/321/raw/master/w10-1/w4.10-Hack-Multiplication.pdf) |* [Mult.asm](https://github.com/Lecture-CPE/321/raw/master/w10-1/Mult.asm) |
 | 19(w10-2) |Thu. 17-Sep-2020 <br> 9-10.30am| * Display | * [Display Toggle](https://github.com/Lecture-CPE/321/raw/master/w10-2/w4.10-Hack-Fill.pdf) |- [Fill-1000.asm](https://github.com/Lecture-CPE/321/raw/master/w10-2/Fill-1000.asm) <br> - [Fill.asm](https://github.com/Lecture-CPE/321/raw/master/w10-2/Fill.asm)  |
 | 20(w11-1) |Mon. 21-Sep-2020 <br> 4.30-6pm| * Computer Architecture <br> * Fetch and Execute cycle | - [Computer Architecture](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.1-VonNeuman.pdf) <br> - [Fetch-Execute](https://github.com/Lecture-CPE/321/raw/master/w11-1/w5.2-Fetch-Execute.pdf) |**Nand2tetris books** <br> -[CH5-Computer Architecture](https://inworks.ucdenver.edu/jkb/iwks2300/docs/chapter-05-jkb.pdf)|
-| 21(w11-2) |Thu.24-Sep-2020 <br> 9-10.30am| Central Processing Unit  | - [CPU](https://github.com/Lecture-CPE/321/raw/master/w11-2/w5.3-CPU.pdf)  |**Nand2tetris books** <br> -[CH5-Computer Architecture](https://inworks.ucdenver.edu/jkb/iwks2300/docs/chapter-05-jkb.pdf)|
-| 22(w12-1) |Mon.28-Sep-2020 <br> 4.30-6pm| Hack Computer (Postpone)  เลื่อนไป พฤหัสบดี |  | |
-| 23(w12-2) |Thu.1-Oct-2020 <br> 9-12am| **กิจกรรมวันสถาปนาคณะวิศวกรรมศาสตร์** |  | |
+| 21(w11-2) |Thu. 24-Sep-2020 <br> 9-10.30am| Central Processing Unit  | - [CPU](https://github.com/Lecture-CPE/321/raw/master/w11-2/w5.3-CPU.pdf)  |**Nand2tetris books** <br> -[CH5-Computer Architecture](https://inworks.ucdenver.edu/jkb/iwks2300/docs/chapter-05-jkb.pdf)|
+| 22(w12-1) |Mon. 28-Sep-2020 <br> 4.30-6pm| Hack Computer (Postpone)  เลื่อนไป พฤหัสบดี |  | |
+| 23(w12-2) |Thu. 1-Oct-2020 <br> 9-12am| **กิจกรรมวันสถาปนาคณะวิศวกรรมศาสตร์** |  | |
+| 24(w12-1) |Mon. 5-Oct-2020 <br> 4.30-6pm| Hack Computer | [Hack Computer](https://github.com/Lecture-CPE/321/raw/master/w12-1/w5.4-TheHackComputer.pdf)| ||
+| 25(w12-2) |Thu. 8-Oct-2020 <br> 9-10.30am| Project 5| [Project 5](https://github.com/Lecture-CPE/321/raw/master/w12-2/w5.5-Project5.pdf) | | |
 | - |   | ***No final exam***   |            |   |
 
 # Upgrade policy
