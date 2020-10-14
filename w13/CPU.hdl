@@ -1,0 +1,113 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/05/CPU.hdl
+
+/**
+ * The Hack CPU (Central Processing unit), consisting of an ALU,
+ * two registers named A and D, and a program counter named PC.
+ * The CPU is designed to fetch and execute instructions written in 
+ * the Hack machine language. In particular, functions as follows:
+ * Executes the inputted instruction according to the Hack machine 
+ * language specification. The D and A in the language specification
+ * refer to CPU-resident registers, while M refers to the external
+ * memory location addressed by A, i.e. to Memory[A]. The inM input 
+ * holds the value of this location. If the current instruction needs 
+ * to write a value to M, the value is placed in outM, the address 
+ * of the target location is placed in the addressM output, and the 
+ * writeM control bit is asserted. (When writeM==0, any value may 
+ * appear in outM). The outM and writeM outputs are combinational: 
+ * they are affected instantaneously by the execution of the current 
+ * instruction. The addressM and pc outputs are clocked: although they 
+ * are affected by the execution of the current instruction, they commit 
+ * to their new values only in the next time step. If reset==1 then the 
+ * CPU jumps to address 0 (i.e. pc is set to 0 in next time step) rather 
+ * than to the address resulting from executing the current instruction. 
+ */
+
+/**
+ * Hack CPU (Central Processing unit) ประกอบด้วย ALU, รีจีสเตอร์ 2 ตัว A และ D
+ * และ โปรแกรมเคาท์เตอร์ ชื่อ PC 
+ * 
+ * CPU ทำงานโดยรับคำสั่งภาษาแอสเซมบลี ด้วยการอ่านคำสั่งเป็นวนรอบ เริ่มจากขั้นตอน fetch ต่อมาเป็น execute แล้ววนกลับไปเริ่มต้น fetch และ execute 
+ * D และ A เป็นรีจีสเตอร์ภายใน(หน่วยความจำภายใน)ซีพียู ขณะที่ M แทนหน่วยความจำภายนอก
+ * ตำแหน่งหน่วยความจำ M ชี้จากข้อมูลในรีวจีสเตอร์ A เช่น Memory[A]
+ * inM แทนข้อมูลในหน่วยความจำ inM=Memory[A]
+ * เมื่อมีคำสั่งต้องการเขียนหน่วยความจำ ข้อมูลที่ต้องการเขียนจะส่งให้ outM, 
+ * ตำแหน่งปลายทางเก็บที่ addressM และเซต writeM=1  (เมื่อ writeM==0 ข้อมูลในหน่วยความจำส่งออก outM)
+ */
+
+/**
+  * C-instruction
+  * instruction[14..13]  --> don't care
+  * instruction[12] = a: ALU y(0: A, 1:M)
+  * instruction[11..6] --> comp
+  *   instruction[11] = c1: ALU zx
+  *   instruction[10] = c2: ALU nx
+  *   instruction[9]  = c3: ALU zy
+  *   instruction[8] = c4: ALU ny
+  *   instruction[7] = c5: ALU f
+  *   instruction[6] = c6: ALU no
+  * instruction[5..3] --> dest
+  *   instruction[5] = d1: load ARegister
+  *   instruction[4] = d2: load DRegister
+  *   instruction[3] = d3: write writeM
+  * instruction[2..0] --> JUMP command
+  *   instruction[2] = j1: C load () Jump if < 0
+  *   instruction[1] = j2 Jump if 0
+  *   instruction[0] = j3 Jump if > 0
+  */
+
+CHIP CPU {
+
+    IN  inM[16],         // M value input  (M = contents of RAM[A])
+        instruction[16], // Instruction for execution
+        reset;           // Signals whether to re-start the current
+                         // program (reset==1) or continue executing
+                         // the current program (reset==0).
+
+    OUT outM[16],        // M value output
+        writeM,          // Write to M? 
+        addressM[15],    // Address in data memory (of M)
+        pc[15];          // address of next instruction
+
+    PARTS:
+      Mux16(a=instruction, b=oALU, sel=instruction[15], out=oMux1);
+
+      //ARegister
+      Not(in=instruction[15], out=ob15);
+      Or(a=ob15, b=instruction[5], out=oOr1);
+      ARegister(in=oMux1, load=oOr1, out=oAReg, out[0..14]=addressM);
+      
+      //DRegister
+      And(a=instruction[15], b=instruction[4], out=oAnd1);
+      DRegister(in=oALU, load=oAnd1, out=oDReg);
+
+      Mux16(a=oAReg, b=inM, sel=instruction[12], out=oMux2);
+
+      //ALU
+      ALU(x=oDReg, 
+          y=oMux2, 
+          zx=instruction[11], 
+          nx=instruction[10], 
+          zy=instruction[9], 
+          ny=instruction[8],
+          f=instruction[7], 
+          no=instruction[6], 
+          out=outM, out=oALU,
+          zr=ozr1, zr=ozr2, ng=ong1, ng=ong2);
+
+      Or(a=ozr1, b=ong1, out=oOr2);
+      Not(in=oOr2, out=oNOr1);
+      And(a=instruction[1], b=ozr2, out=oAnd3);
+      And(a=instruction[2], b=ong2, out=oAnd4);
+      And(a=instruction[0], b=oNOr1, out=oAnd2); 
+      Or(a=oAnd3, b=oAnd4, out=oOr3);
+      Or(a=oAnd2, b=oOr3, out=oOr4);
+      And(a=instruction[15], b=oOr4, out=oAnd5);
+
+      And(a=instruction[15], b=instruction[3], out=writeM);
+
+      //PC
+      PC(in=oAReg, load=oAnd5, inc=true, reset=reset, out[0..14]=pc);
+}
