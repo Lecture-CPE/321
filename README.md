@@ -52,6 +52,7 @@
 | 23(w12-2) |Thu. 1-Oct-2020 <br> 9-12am| **กิจกรรมวันสถาปนาคณะวิศวกรรมศาสตร์** |  | |
 | 24(w12-1) |Mon. 5-Oct-2020 <br> 4.30-6pm| Hack Computer | [Hack Computer](https://github.com/Lecture-CPE/321/raw/master/w12-1/w5.4-TheHackComputer.pdf)| ||
 | 25(w12-2) |Thu. 8-Oct-2020 <br> 9-10.30am| Project 5| [Project 5](https://github.com/Lecture-CPE/321/raw/master/w12-2/w5.5-Project5.pdf) | | |
+| 26(w13)   |Thu. 15-Oct-2020 <br> 9-12am| CPU HDL| [CPU HDL](https://github.com/Lecture-CPE/321/raw/master/w13/w5.5_1-CPU-HDL.pdf) | - [CPU diagram](https://github.com/Lecture-CPE/321/raw/master/w13/CPU.pdf) <br>  - [CPU.hdl](https://github.com/Lecture-CPE/321/raw/master/w13/CPU.hdl)|
 | - |   | ***No final exam***   |            |   |
 
 # Upgrade policy
